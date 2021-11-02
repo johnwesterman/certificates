@@ -9,9 +9,11 @@ Version 2021.1
 Tuesday November 02, 2021
 
 Things I changed:
+
+Nothing. This is version 1
 ```
 
-## What does this do?
+## extract.py
 
 This program will take a standard certificate bundle and break it into it's certificate components and give a breakdown of each certificat issuer and subject.
 
