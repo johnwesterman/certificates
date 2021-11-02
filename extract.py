@@ -4,7 +4,7 @@
 # extract.py - This program will take a standard certificate bundle and break it into
 #   it's certificate components and give a breakdown of each certificat issuer and subject.
 #
-#  Auhor: John Westerman, Tuesday November 02, 2021, Version 1.0 20211102152127
+#  Auhor: John Westerman, Tuesday November 02, 2021
 #
 
 import subprocess, sys
