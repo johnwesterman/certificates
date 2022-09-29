@@ -10,7 +10,12 @@ Tuesday November 02, 2021
 
 Things I changed:
 
-Nothing. This is version 1
+#     Updated Wednesday September 28, 2022 22:39
+#       1. Accounted for lines too short
+#       2. Accounted for lines with spaces
+#       3. Don't write lines unless the cert has been found
+#       4. Made code/variables easier to read and follow
+
 ```
 
 ## extract.py
